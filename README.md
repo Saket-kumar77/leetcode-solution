@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0390-elimination-game) |
 | [1927-sum-game](https://github.com/Saket-kumar77/leetcode-solution/tree/master/1927-sum-game) |
 ## String
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
