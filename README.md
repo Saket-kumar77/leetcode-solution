@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0390-elimination-game) |
 | [1927-sum-game](https://github.com/Saket-kumar77/leetcode-solution/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saket-kumar77/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saket-kumar77/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
