@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saket-kumar77/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0704-binary-search) |
 ## Recursion
 |  |
 | ------- |
