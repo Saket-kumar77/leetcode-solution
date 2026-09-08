@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0704-binary-search) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
