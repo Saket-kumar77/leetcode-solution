@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saket-kumar77/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
