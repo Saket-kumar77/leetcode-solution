@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Saket-kumar77/leetcode-solution/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0035-search-insert-position) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
