@@ -7,18 +7,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0112-path-sum) |
+| [0623-add-one-row-to-tree](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0112-path-sum) |
+| [0623-add-one-row-to-tree](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0112-path-sum) |
+| [0623-add-one-row-to-tree](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0112-path-sum) |
+| [0623-add-one-row-to-tree](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0623-add-one-row-to-tree) |
 ## Math
 |  |
 | ------- |
