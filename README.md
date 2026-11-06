@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0189-rotate-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0063-unique-paths-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0018-4sum) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Saket-kumar77/leetcode-solution/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
